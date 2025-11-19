@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class MexicanChef implements Chef {
     @Override
     public String getDailyRecipe() {
-        return "";
+        return "Prepara tacos ... !";
     }
 }
